@@ -2,6 +2,6 @@
 hello
 
 Shoppping list:
-Milk 
-OJ 
-Ice cream
+1. Milk 
+2. OJ 
+3. Ice cream
